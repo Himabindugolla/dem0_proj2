@@ -31,7 +31,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib</classpathPrefix>
-							<mainClass>pkg.calc</mainClass>
+							<mainClass>proj2.calc</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
