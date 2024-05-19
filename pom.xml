@@ -31,7 +31,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib</classpathPrefix>
-							<mainClass>proj2.calc</mainClass>
+							<mainClass>proj2.projectt2</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
