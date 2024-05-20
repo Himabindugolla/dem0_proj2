@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Java CI with Maven by Hima Bindu
+name: Java CI with Maven by Hima Bindu Golla
 
 on:
   push:
